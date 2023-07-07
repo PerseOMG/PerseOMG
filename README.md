@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Muñoz</h1>
 <h3 align="center">Front End Developer, love Angular</h3>
 
-- 🌱 I’m currently learning **ASP.Net Core 6**
+- 🌱 I’m currently learning **Power BI** and developing a soccer tournaments simulator.
 
 - 💬 Ask me about **Angular, React Native, ReactJS, Ionic, Redux, JavaScript, CSS, HTML**
 
